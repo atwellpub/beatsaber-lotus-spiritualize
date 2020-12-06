@@ -1,2 +1,3 @@
 # beataber-lotus-spiritualize
-A custom beat saber map
+
+This is my first attempt at a BeatSaber map. Hope someone enjoys it!
